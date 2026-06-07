@@ -1,74 +1,87 @@
-# SmartStock BI
+SmartStock BI
 
-## Dashboard de Gestão de Estoque para Cozinhas Industriais
+Dashboard de Gestão de Estoque para Cozinhas Industriais
 
-Projeto desenvolvido em Power BI para monitoramento e controle de estoque de cozinhas industriais, permitindo análise rápida dos produtos, movimentações e itens críticos.
+Projeto desenvolvido em Power BI para monitoramento e controle de estoque em cozinhas industriais, permitindo acompanhar produtos, movimentações de entrada e saída, estoque mínimo e itens críticos para reposição.
 
----
+⸻
 
-## Objetivo
+Objetivo
 
-Criar um dashboard interativo para auxiliar no acompanhamento do estoque, identificação de produtos críticos e análise das movimentações de entrada e saída.
+Desenvolver um dashboard interativo para auxiliar no gerenciamento de estoque, oferecendo uma visão clara dos indicadores operacionais e apoiando a tomada de decisão.
 
----
+⸻
 
-## Dashboard
+Dashboard
 
 <img src="imagens/dashboard.png" width="1000">
 
----
+⸻
 
-## Indicadores
+Indicadores
 
-- Estoque Atual
-- Valor Total do Estoque
-- Produtos Críticos
-- Movimentações de Entrada e Saída
+* Estoque Atual
+* Valor Total do Estoque
+* Produtos Críticos
+* Movimentações de Entrada e Saída
 
----
+⸻
 
-## Filtros Disponíveis
+Filtros Disponíveis
 
-- Categoria
-- Produto
-- Tipo de Movimentação
-- Data
+* Categoria
+* Produto
+* Tipo de Movimentação
+* Data
 
----
+⸻
 
-## Funcionalidades
+Funcionalidades
 
-- Monitoramento de estoque em tempo real
-- Identificação de produtos abaixo do estoque mínimo
-- Controle de entradas e saídas
-- Filtros dinâmicos
-- Dashboard interativo
+* Monitoramento de estoque em tempo real
+* Identificação de produtos abaixo do estoque mínimo
+* Controle de entradas e saídas
+* Análise por categoria de produto
+* Filtros dinâmicos para consulta rápida
+* Dashboard interativo em Power BI
 
----
+⸻
 
-## Tecnologias Utilizadas
+Resultados
 
-- Power BI
-- DAX
-- Excel
-- Modelagem de Dados
+O dashboard permite:
 
----
+* Acompanhar o estoque disponível de cada produto
+* Identificar rapidamente itens críticos para reposição
+* Monitorar movimentações de entrada e saída
+* Visualizar indicadores estratégicos de estoque
+* Apoiar decisões operacionais e de compras
 
-## Arquivos do Projeto
+⸻
 
-- Dashboard Power BI
-- Relatório em PDF
-- Imagem do Dashboard
+Tecnologias Utilizadas
 
----
+* Power BI
+* DAX
+* Excel
+* Modelagem de Dados
 
-## Autor
+⸻
+
+Arquivos do Projeto
+
+* Dashboard Power BI
+* Relatório em PDF
+* Imagem do Dashboard
+
+⸻
+
+Autor
 
 Giovanna Gomes Oliveira
 
-Estudante de Inteligência Artificial e apaixonada por Dados, Business Intelligence e Machine Learning.
+LinkedIn: www.linkedin.com/in/giovannatecnologiadados23
 
-LinkedIn: INSERIR LINK
+GitHub: https://github.com/giovannag-tech
 
-GitHub: INSERIR LINK
+Projeto: https://github.com/giovannag-tech/SmartStock
